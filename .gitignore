@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Kaggle
+*.csv
+*.json
+*.zip
+data/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
